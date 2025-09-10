@@ -1,0 +1,17 @@
+{
+  "mods": [
+    {
+      "name": "xDave_VanillaPlus_QoL",
+      "author": "xDave",
+      "version": "1.0",
+      "week": "196",
+      "compatibility": "",
+      "description": "VanillaPlus QoL",
+      "imageURL": "",
+      "readmeURL": "https://github.com/xDaveGG/Icarus-xDave-VanillaPlus-QoL-v1.0/releases/tag/Icarus",
+      "files": {
+          "pak": "https://github.com/xDaveGG/Icarus-xDave-VanillaPlus-QoL-v1.0xDave_VanillaPlus_QoL_P.pak"
+      }
+    }
+   ]
+ }
